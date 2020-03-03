@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yshrkn/learning-typescript/issues"
   },
-  "homepage": "https://github.com/yshrkn/learning-typescript#readme"
+  "homepage": "https://github.com/yshrkn/learning-typescript#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
