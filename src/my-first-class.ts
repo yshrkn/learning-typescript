@@ -4,7 +4,7 @@ class Person {
   name: string;
   age: number;
 
-  // constructor は何も返さないが、voidアノテーションは不要
+  // constructor は何も返さないがvoidアノテーションは不要
   constructor(name: string, age: number) {
     this.name = name;
     this.age = age;
